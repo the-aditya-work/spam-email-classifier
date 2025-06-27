@@ -79,6 +79,6 @@ Spam emails are a common issue, and manually filtering them is inefficient. This
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/spam-email-classifier.git
+   git clone https://github.com/the-aditya-work/spam-email-classifier.git
    cd spam-email-classifier
 
